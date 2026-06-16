@@ -43,7 +43,6 @@ export default function App() {
             </div>
             <span className="text-[10px] uppercase tracking-widest text-slate-400 font-medium hidden sm:block">Smarter Systems. Better Patient Experience.</span>
           </div>
-          <WhatsAppButton text="Hi Clinispire, I would like to get my Free Clinic Assessment." label="Free Assessment" isPill className="text-sm shadow-md" />
         </div>
       </header>
 
