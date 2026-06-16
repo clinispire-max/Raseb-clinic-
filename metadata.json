@@ -1,0 +1,6 @@
+{
+  "name": "Clinispire Landing Page",
+  "description": "Landing page for Clinispire, a healthcare clinic operations consultancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
