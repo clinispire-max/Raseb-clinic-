@@ -608,11 +608,7 @@ export default function App() {
           <div>
             <h4 className="text-[10px] uppercase font-bold tracking-widest text-[#0E7C86] mb-4">Contact</h4>
             <ul className="space-y-2 text-xs font-semibold text-slate-400">
-              <li className="flex items-center gap-2">
-                <MessageCircle className="w-3 h-3" /> 
-                <a href={`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent("Hi Clinispire")}`} className="hover:text-white">{WA_NUMBER}</a>
-              </li>
-              <li>raseb@clinispire.com</li>
+              <li>clinispire@gmail.com</li>
             </ul>
           </div>
         </div>
